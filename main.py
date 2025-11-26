@@ -1,6 +1,6 @@
 import pygame
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT
-#test
+#test2
 def main():
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
     print(f"Screen width: {SCREEN_WIDTH}")
